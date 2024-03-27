@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)
+}
+
+.container{
+    max-width: 500px;
+    margin: 200px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 1rem;
+    box-shadow: 0 2px 25px rgba(97, 87, 87, 0.3);
+
+
+}
